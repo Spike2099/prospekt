@@ -1,0 +1,13 @@
+#AddDefaultCharset UTF-8
+
+Options +FollowSymLinks
+IndexIgnore */*
+
+#php_flag display_errors Off
+#php_flag log_errors On
+#php_value error_log ./multy/error/php.log
+
+RewriteEngine On
+
+RewriteRule ^$ public/ [L]
+RewriteRule ((?s).*) public/$1 [L]

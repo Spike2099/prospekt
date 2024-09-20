@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://prospekt-parts.com/</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/signin</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/signup</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/contact</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc/guaranty</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc/return-policy</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc/responsibility</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc/privatepolice</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc/license</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/forgot-password</loc>
+	<lastmod>2023-02-16T11:41:40+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://prospekt-parts.com/doc</loc>
+	<lastmod>2023-02-16T11:41:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
